@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Godsliberty
+- 👋 Hi, I’m Alaba Olalekan Oluwole
 - 👀 I’m interested in indepth learning on Python, R and Machine learning.
 - 🌱 I’m currently learning Python, R and Machine learning 
 - 💞️ I’m looking to collaborate on python, R and machine learning problems
